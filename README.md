@@ -6,7 +6,7 @@
 4. crime_statistics (CVS) - file used in python code.
 5. crime_statistics_db (DB) - database created from CVS file above and was used in SQL queries.
 
-## Assignment
+## Questions
 ### Q1 - Find scandinavian companies boycott Israeli companies
 Storebrand ASA is a financial services company headquartered outside Oslo, Norway. Storebrand includes in its exclusion list1 Israeli companies operating in the Judea and Samaria area for violations of international law and human rights, such as - Bank Hapoalim, Bank Leumi Le-Israel, Elbit Systems Ltd, Israel Discount Bank.We would like to find more scandinavian companies that boycott Israeli companies. Based on Storebrand ASA exclusion file, please compose the most efficient google search query/ies that might bring relevant results
 
