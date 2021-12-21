@@ -1,4 +1,4 @@
-# webint, python, sql - home assignment
+# Webint, Python, SQL - home assignment
 ## About the files
 1. Webint assignment (WORD) - answers to all webint and Excel questions.
 2. Copy of List of donations + Copy of Uploaded files (EXCEL) - files after using formulas and creating relevant columns.
